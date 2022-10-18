@@ -5,8 +5,7 @@ import random
 import string
 import time
 
-referrer = "4bb37cb0-9f5e-407f-aea3-eef100951c31"# 群主
-#referrer = "7a593954-e665-47f3-b8d9-3107c5254234"
+referrer = "b42c39c4-3b6a-4467-9433-09b4356dc36b"# 群主
 try_time = 18
 
 
